@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Restaurante Iplacex</string>
+    <string name="pastel_choclo">Pastel de Choclo</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="precio_pastel">$12.000 c/u</string>
+    <string name="precio_cazuela">$10.000 c/u</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="cantidad_hint">Cant.</string>
+    <string name="propina_toggle">¿Desea agregar el 10% de propina?</string>
+    <string name="resumen_pedido">Resumen del Pedido</string>
+    <string name="total_productos">Total productos</string>
+    <string name="propina_sugerida">Propina sugerida</string>
+    <string name="total_final_label">TOTAL FINAL</string>
+    <string name="icono_pastel">Icono Pastel de Choclo</string>
+    <string name="icono_cazuela">Icono Cazuela</string>
+</resources>

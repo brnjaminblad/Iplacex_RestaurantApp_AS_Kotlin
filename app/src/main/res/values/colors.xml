@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Rústica -->
+    <color name="wood_brown">#795548</color> <!-- Un marrón más natural -->
+    <color name="wood_dark">#4B2C20</color>
+    <color name="moss_green">#689F38</color> <!-- Verde oliva/musgo -->
+    <color name="moss_dark">#33691E</color>
+    <color name="stone_grey">#757575</color>
+    <color name="stone_dark">#212121</color>
+    <color name="parchment_light">#FCF9F2</color> <!-- Crema más suave -->
+    <color name="parchment_dark">#E9E4D0</color>
+</resources>

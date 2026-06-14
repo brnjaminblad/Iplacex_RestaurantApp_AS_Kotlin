@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IplacexRestaurantAppASKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores Principales Rústicos -->
+        <item name="colorPrimary">@color/moss_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/moss_dark</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+
+        <item name="colorSecondary">@color/wood_brown</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorTertiary">@color/stone_grey</item>
+        <item name="colorOnTertiary">@color/white</item>
+
+        <item name="android:windowBackground">@color/parchment_light</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorSurfaceVariant">#E9E9D0</item> <!-- Un tono crema oscuro para las tarjetas -->
+    </style>
+
+    <style name="Theme.IplacexRestaurantAppASKotlin" parent="Base.Theme.IplacexRestaurantAppASKotlin" />
+</resources>
